@@ -57,3 +57,7 @@ flowchart TD
     H --> N[Mint Token]
     N --> O[Transfer Token to Owner] --> ZZ
 ```
+
+## Integration Guide
+
+You can read the integration guide [here](guides/integration-guide.md)
