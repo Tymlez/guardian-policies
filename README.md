@@ -60,4 +60,6 @@ flowchart TD
 
 ## Integration Guide
 
-You can read the integration guide [here](guides/integration-guide.md)
+You can read the integration guides here:
+[CET Guide](guides/CET.md)
+[CRU Guide](guides/CRU.md)
