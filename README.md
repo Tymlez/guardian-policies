@@ -19,7 +19,7 @@ that can be used to record Scope 1 & 2 emissions data
 
 ## Scope 3 data
 
-TYMLEZ supports the inclusion of Scope 3 emissions data, however this is not currently included in the provided schema. 
+TYMLEZ supports the inclusion of Scope 3 emissions data, however, this is not currently included in the provided schema. 
 We instead integrate with partners to support the inclusion of Scope 3 data as external carbon data which fits the dMRV model 
 more than the usual form-based process.
 
@@ -28,7 +28,7 @@ more than the usual form-based process.
 https://interwork.org/wp-content/uploads/2021/05/Voluntary_Ecological_Markets_Overview_Revised.pdf
 
 TYMLEZ integrated the tokenisation functionality based on the recommendations of the IWA VEM.
-However, we make no claim as to the adherence to this document as indivdual customer requirements 
+However, we make no claim as to the adherence to this document as individual customer requirements 
 created in a nascent market often require creative thinking.
 
 ## High Level Policy Overview
